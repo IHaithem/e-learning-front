@@ -1,0 +1,55 @@
+
+#pic1{
+    padding: 0;
+    width: 35%;
+    height: 40%;
+    border-radius: 50%;
+    background: url('../Images/administrator.png') no-repeat;
+    background-position: center;
+    background-size:  50%;
+    background-color: rgba(76, 175, 80, 0.5);
+}
+
+#pic2{
+    padding: 0;
+    width: 40%;
+    height: 40%;
+    border-radius: 50%;
+    background: url('../Images/student.png') no-repeat;
+    background-position: center;
+    background-size:  50%;
+    background-color: rgba(76, 175, 80, 0.5);
+}
+
+#pic3{
+    padding: 0;
+    width: 40%;
+    height: 40%;
+    border-radius: 50%;
+    background: url('../Images/teacher.png') no-repeat;
+    background-position: center;
+    background-size:  50%;
+    background-color: rgba(76, 175, 80, 0.5);
+}
+
+#pic4{
+    padding: 0;
+    width: 43%;
+    height: 40%;
+    border-radius: 50%;
+    background: url('../Images/book.png') no-repeat;
+    background-position: center;
+    background-size:  50%;
+    background-color: rgba(76, 175, 80, 0.5);
+}
+
+#click{
+    border: 1px solid #4caf50;
+    background-color: white;
+    color: #4caf50;
+}
+
+#click:hover{
+    color: white;
+    background-color: #4caf50;
+}

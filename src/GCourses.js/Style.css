@@ -1,0 +1,52 @@
+
+.courses{
+  padding-left: 1%;
+  padding-right: 1%;
+}
+
+.card{
+    padding-bottom: 3%;
+    border-color: rgb(12, 125, 72);
+}
+
+.cardTitle{
+    font-size: 200%;
+    font-weight: 900;
+    text-align: center;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+
+.details{
+   border-color: #4caf50;
+   color: #4caf50;
+}
+
+.details:hover{
+    background-color: #4caf50;
+    color: white;
+    
+}
+
+.custom-card {
+    width: 100%;
+    margin: 10px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .card-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+
+  #card{
+    background-color: rgba(255, 255, 255, 0.318);
+    
+  }
+
+  #week{
+    background-color:rgba(255, 255, 255, 0.318);
+  }

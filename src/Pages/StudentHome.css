@@ -1,0 +1,34 @@
+#pic5{
+    padding: 0;
+    width: 30%;
+    height: 40%;
+    border-radius: 50%;
+    background: url('../Images/book.png') no-repeat;
+    background-position: center;
+    background-size:  50%;
+    background-color: rgba(76, 175, 80, 0.5);
+}
+
+#welA{
+    justify-content: center;
+}
+
+#part6{
+    width: 40%;
+}
+
+#wel{
+    width: 70%;
+}
+
+
+#click{
+    border: 1px solid #4caf50;
+    background-color: white;
+    color: #4caf50;
+}
+
+#click:hover{
+    color: white;
+    background-color: #4caf50;
+}

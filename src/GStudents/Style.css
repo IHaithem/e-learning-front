@@ -1,0 +1,29 @@
+
+.courses{
+    padding-left: 1%;
+    padding-right: 1%;
+  }
+  
+  .card{
+      padding-bottom: 3%;
+      border-color: rgb(12, 125, 72);
+  }
+  
+  .cardTitle{
+      font-size: 200%;
+      font-weight: 900;
+      text-align: center;
+      font-family: "Lucida Console", "Courier New", monospace;
+  }
+  
+  
+  .details{
+     border-color: #4caf50;
+     color: #4caf50;
+  }
+  
+  .details:hover{
+      background-color: #4caf50;
+      color: white;
+      
+  }

@@ -1,0 +1,40 @@
+#pic8{
+    padding: 0;
+    width: 30%;
+    height: 40%;
+    border-radius: 50%;
+    background: url('../Images/book.png') no-repeat;
+    background-position: center;
+    background-size:  50%;
+    background-color: rgba(76, 175, 80, 0.5);
+}
+
+#pic7{
+    padding: 0;
+    width: 30%;
+    height: 40%;
+    border-radius: 50%;
+    background: url('../Images/profile.png') no-repeat;
+    background-position: center;
+    background-size:  50%;
+    background-color: rgba(76, 175, 80, 0.5);
+}
+
+#part7{
+    width: 30%;
+}
+
+#well{
+    justify-content: space-evenly;
+}
+
+#click{
+    border: 1px solid #4caf50;
+    background-color: white;
+    color: #4caf50;
+}
+
+#click:hover{
+    color: white;
+    background-color: #4caf50;
+}
